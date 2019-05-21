@@ -1,0 +1,6 @@
+dao/BookController.class
+pl/coderslab/AppConfig.class
+dao/BookDao.class
+entity/Book.class
+service/BookService.class
+pl/coderslab/AppInitializer.class
